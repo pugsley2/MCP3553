@@ -1,0 +1,1 @@
+## Simple library for communicating with an MCP3553 ADC over SPI in continous conversion mode.

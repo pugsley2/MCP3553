@@ -1,0 +1,6 @@
+{
+  "terminal.integrated.env.osx": {
+    "PATH": "/Users/pugsley/.platformio/penv/bin:/Users/pugsley/.platformio/penv:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Users/pugsley/anaconda3/bin:/Library/Frameworks/Python.framework/Versions/3.6/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin",
+    "PLATFORMIO_CALLER": "vscode"
+  }
+}
